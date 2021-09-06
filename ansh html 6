@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<img src = "https://www.orissapost.com/wp-content/uploads/2020/06/carryminati-1024x576.jpg" height=300 widht=300>
+<h1 style="color:blue;"> contact details </h1>
+<ul> 
+<li> address miet meerut</li>
+<li> moblie number 9876564312</li>
+</ul>
+<h2> qualification </h2>
+<ul>
+<li> 10th</li>
+<li>12th</li>
+<li>b.tech</li>
+</ul>
+<h2>result</h2>
+<table border ="10px">
+<tr>
+<td>10th</td>
+<td>98%</td>
+</tr>
+<tr>
+<td>12th</td>
+<td>95%</td>
+</tr>
+<style>
+h2{color:green;]
+</style>
+</body>
